@@ -1,0 +1,4345 @@
+fileFormatVersion: 2
+guid: f7adcd2c96f03f940942593583dd4442
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9156918040952734907
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_0
+  - first:
+      213: 2525820796345011201
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_1
+  - first:
+      213: -6119170369232630647
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_2
+  - first:
+      213: 1177380055677205428
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_3
+  - first:
+      213: 5122543550368769246
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_4
+  - first:
+      213: -4115569461040940166
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_5
+  - first:
+      213: -6983387405577876068
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_6
+  - first:
+      213: 2849314587815984867
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_7
+  - first:
+      213: 6112823068089017406
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_8
+  - first:
+      213: -2238083397438219804
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_9
+  - first:
+      213: 3107990718432512581
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_10
+  - first:
+      213: 7505897090334248612
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_11
+  - first:
+      213: -192291044170037032
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_12
+  - first:
+      213: -1392323643207908355
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_13
+  - first:
+      213: 8583742093757301667
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_14
+  - first:
+      213: -1202619930685305717
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_15
+  - first:
+      213: -2392844427507811710
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_16
+  - first:
+      213: -3395685860381552701
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_17
+  - first:
+      213: -4803818522952612655
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_18
+  - first:
+      213: 8935482951385399481
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_19
+  - first:
+      213: 5695873988360436235
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_20
+  - first:
+      213: 3158080015440846973
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_21
+  - first:
+      213: 1680077283447795695
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_22
+  - first:
+      213: -8720966745168607090
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_23
+  - first:
+      213: 3537647290953674901
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_24
+  - first:
+      213: -3692097533747347181
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_25
+  - first:
+      213: -8594788715559621170
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_26
+  - first:
+      213: -5547634195769203217
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_27
+  - first:
+      213: 3126218487759869381
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_28
+  - first:
+      213: 3980625473431772156
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_29
+  - first:
+      213: 5433537538199515307
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_30
+  - first:
+      213: -8321050910665578699
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_31
+  - first:
+      213: -4489179605247431424
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_32
+  - first:
+      213: -4758753222144393733
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_33
+  - first:
+      213: -3744410895500912319
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_34
+  - first:
+      213: -6006195625903415175
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_35
+  - first:
+      213: 1589377434609591819
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_36
+  - first:
+      213: -2645066832679037516
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_37
+  - first:
+      213: -4092919916373371119
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_38
+  - first:
+      213: -7301673760668658316
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_39
+  - first:
+      213: 8585981718516953910
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_40
+  - first:
+      213: -6430056309559097211
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_41
+  - first:
+      213: 1883583341175800125
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_42
+  - first:
+      213: -3309889348686663893
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_43
+  - first:
+      213: -5881872609953614854
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_44
+  - first:
+      213: -6040947467968941389
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_45
+  - first:
+      213: -8025980713782949651
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_46
+  - first:
+      213: 7558344174026428737
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_47
+  - first:
+      213: 3498918619961743618
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_48
+  - first:
+      213: -3834016395540605823
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_49
+  - first:
+      213: -1801675789810507222
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_50
+  - first:
+      213: -1240086219297073777
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_51
+  - first:
+      213: -3305009192543460020
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_52
+  - first:
+      213: 6478044064004062607
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_53
+  - first:
+      213: 4663196960886897790
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_54
+  - first:
+      213: -5837795580774079567
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_55
+  - first:
+      213: -66084317839617350
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_56
+  - first:
+      213: -5430044884074874923
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_57
+  - first:
+      213: 5308558102964958279
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_58
+  - first:
+      213: -257484329859190113
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_59
+  - first:
+      213: -3963128687322553293
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_60
+  - first:
+      213: 3343705423095708869
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_61
+  - first:
+      213: -1338256249131047701
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_62
+  - first:
+      213: -7588787440824859613
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_63
+  - first:
+      213: -6660496088503452743
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_64
+  - first:
+      213: 5452171689020014502
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_65
+  - first:
+      213: -1479192956540729720
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_66
+  - first:
+      213: -4145633660314967985
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_67
+  - first:
+      213: 5881979790282923509
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_68
+  - first:
+      213: -5801834948344805677
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_69
+  - first:
+      213: -3400974344641354274
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_70
+  - first:
+      213: -3977034052604249688
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_71
+  - first:
+      213: -5391194017253724827
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_72
+  - first:
+      213: -2402894361272368488
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_73
+  - first:
+      213: 3736961172892412385
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_74
+  - first:
+      213: -459085745179211937
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_75
+  - first:
+      213: -196717381870679816
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_76
+  - first:
+      213: -5635358170762330914
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_77
+  - first:
+      213: 2949096274194609387
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_78
+  - first:
+      213: -8186778988000646515
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_79
+  - first:
+      213: 9112608630350885863
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_80
+  - first:
+      213: -3900200484235663750
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_81
+  - first:
+      213: -1591874560902644846
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_82
+  - first:
+      213: -351321779196263925
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_83
+  - first:
+      213: 744366106810863742
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_84
+  - first:
+      213: 4119329651256321908
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_85
+  - first:
+      213: -4961173738556847828
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_86
+  - first:
+      213: 5596270879986196420
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_87
+  - first:
+      213: -7419837939018027750
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_88
+  - first:
+      213: 8104647572593986618
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_89
+  - first:
+      213: -3032398766662684396
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_90
+  - first:
+      213: -2048988798740958026
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_91
+  - first:
+      213: 2437624201972185766
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_92
+  - first:
+      213: 3647332467971200180
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_93
+  - first:
+      213: 1806316257658977698
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_94
+  - first:
+      213: 913843524026359285
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_95
+  - first:
+      213: 6206141708762090529
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_96
+  - first:
+      213: 4520913562611787162
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_97
+  - first:
+      213: 1993629389837606242
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_98
+  - first:
+      213: -8683934694386988769
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_99
+  - first:
+      213: -5738381084288837866
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_100
+  - first:
+      213: 5585192801186002936
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_101
+  - first:
+      213: -5789728719053569907
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_102
+  - first:
+      213: -6595482314628271379
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_103
+  - first:
+      213: 1903179810912625211
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_104
+  - first:
+      213: -4604016414882393361
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_105
+  - first:
+      213: 4427539531085074655
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_106
+  - first:
+      213: 4865743291264419816
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_107
+  - first:
+      213: -3228336251331430811
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_108
+  - first:
+      213: -4866393420854370953
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_109
+  - first:
+      213: 4869013281971914988
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_110
+  - first:
+      213: -3127464172112086931
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_111
+  - first:
+      213: -2132722030150406672
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_112
+  - first:
+      213: 7796073175624458763
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_113
+  - first:
+      213: 1811716596154329034
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_114
+  - first:
+      213: -2055935950071477879
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_115
+  - first:
+      213: -8392931732464467149
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_116
+  - first:
+      213: 7582265790147629868
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_117
+  - first:
+      213: -3143458222506204849
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_118
+  - first:
+      213: -3402349380652566070
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_119
+  - first:
+      213: -7978062534910450361
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_120
+  - first:
+      213: -4895135555228092925
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_121
+  - first:
+      213: 3451872827770093978
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_122
+  - first:
+      213: -8115553650822550071
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_123
+  - first:
+      213: -8018404935523104332
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_124
+  - first:
+      213: -4058062498028232729
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_125
+  - first:
+      213: 4629706623468397882
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_126
+  - first:
+      213: 1925501250017749019
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_127
+  - first:
+      213: -221158931083358658
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_128
+  - first:
+      213: 574211021450993314
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_129
+  - first:
+      213: -3530205109412781369
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_130
+  - first:
+      213: 6797934266696652942
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_131
+  - first:
+      213: 1413465395228411800
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_132
+  - first:
+      213: -1637278795375114963
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_133
+  - first:
+      213: 129083876104098891
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_134
+  - first:
+      213: 4876587484050595145
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_135
+  - first:
+      213: -9007326446408004674
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_136
+  - first:
+      213: 7484375877931440411
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_137
+  - first:
+      213: 344644248443927529
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_138
+  - first:
+      213: -1998666620390517588
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_139
+  - first:
+      213: 2392257320172767432
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_140
+  - first:
+      213: -3774773157734336241
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_141
+  - first:
+      213: 4929046698200093407
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_142
+  - first:
+      213: 6604474110598466151
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_143
+  - first:
+      213: 7432870907546478845
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_144
+  - first:
+      213: 3679184650198325705
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_145
+  - first:
+      213: -836990114629327090
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_146
+  - first:
+      213: -8176112553502274646
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_147
+  - first:
+      213: -5490096636332362066
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_148
+  - first:
+      213: -4270851192181097772
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_149
+  - first:
+      213: -4371125131960103828
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_150
+  - first:
+      213: -8358235439885411830
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_151
+  - first:
+      213: -1948207528162943737
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_152
+  - first:
+      213: 2343579745860879858
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_153
+  - first:
+      213: 6745759359063319151
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_154
+  - first:
+      213: 1740859919266845920
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_155
+  - first:
+      213: 7669152518208336412
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_156
+  - first:
+      213: 3054273313578683409
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_157
+  - first:
+      213: -5509430068829331319
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_158
+  - first:
+      213: 441732981073764306
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_159
+  - first:
+      213: -1216135620321741522
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_160
+  - first:
+      213: 8533015623466481649
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_161
+  - first:
+      213: 1837001001704756939
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_162
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 583
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb48a5c5178e31f70800000000000000
+      internalID: 9156918040952734907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 584
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4074c1a48d0320800000000000000
+      internalID: 2525820796345011201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 584
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c0bcd48f6541ba0800000000000000
+      internalID: -6119170369232630647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 584
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf4403ce4e65010800000000000000
+      internalID: 1177380055677205428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 584
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4e23af73ee61740800000000000000
+      internalID: 5122543550368769246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 584
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b7532616f82e6c0800000000000000
+      internalID: -4115569461040940166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 584
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d08997726061f90800000000000000
+      internalID: -6983387405577876068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 584
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee3c14758cca8720800000000000000
+      internalID: 2849314587815984867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 488
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34624c713c15d450800000000000000
+      internalID: 6112823068089017406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 488
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9def5020bb0f0e0800000000000000
+      internalID: -2238083397438219804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 488
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a8161771dc12b20800000000000000
+      internalID: 3107990718432512581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 549
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec20eb2ad4a2860800000000000000
+      internalID: 7505897090334248612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 549
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d881ca6058d45df0800000000000000
+      internalID: -192291044170037032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 549
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3073af5097dace0800000000000000
+      internalID: -1392323643207908355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 549
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c8f5a4f39f1770800000000000000
+      internalID: 8583742093757301667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 549
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c82b77b8f6f4fe0800000000000000
+      internalID: -1202619930685305717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_16
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 549
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28abf97cba8eaced0800000000000000
+      internalID: -2392844427507811710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_17
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 549
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf042b73b910e0d0800000000000000
+      internalID: -3395685860381552701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_18
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 549
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4c7fd4188655db0800000000000000
+      internalID: -4803818522952612655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 520
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0c2ede666310c70800000000000000
+      internalID: 8935482951385399481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 520
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7c91e63fcb0f40800000000000000
+      internalID: 5695873988360436235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 520
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70ac94ba01c3db20800000000000000
+      internalID: 3158080015440846973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_22
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 520
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefeb1b4365d05710800000000000000
+      internalID: 1680077283447795695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 520
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880b3073f6e8f680800000000000000
+      internalID: -8720966745168607090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_24
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 520
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590bae5c77f381130800000000000000
+      internalID: 3537647290953674901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 520
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c4e8cad803ccc0800000000000000
+      internalID: -3692097533747347181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 484
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd6889433d29b880800000000000000
+      internalID: -8594788715559621170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 484
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5ed517718d203b0800000000000000
+      internalID: -5547634195769203217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 484
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59f25b62f826b20800000000000000
+      internalID: 3126218487759869381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 484
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb95cf17c50e3730800000000000000
+      internalID: 3980625473431772156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 485
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0f1265a9dc76b40800000000000000
+      internalID: 5433537538199515307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53766d79840b58c80800000000000000
+      internalID: -8321050910665578699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 501
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d6c480fea33b1c0800000000000000
+      internalID: -4489179605247431424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd765c482385fdb0800000000000000
+      internalID: -4758753222144393733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 500
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d098112e290cc0800000000000000
+      internalID: -3744410895500912319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970a58286e4b5aca0800000000000000
+      internalID: -6006195625903415175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 501
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b062deb1b5a9e0610800000000000000
+      internalID: 1589377434609591819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_37
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 482
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59ff6dab5da4bd0800000000000000
+      internalID: -2645066832679037516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 500
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117917275070337c0800000000000000
+      internalID: -4092919916373371119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 392
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475dd8d866e3baa90800000000000000
+      internalID: -7301673760668658316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 392
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633733ce1e8872770800000000000000
+      internalID: 8585981718516953910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 392
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58888f6bad9d3c6a0800000000000000
+      internalID: -6430056309559097211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 392
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3180a3b115d32a10800000000000000
+      internalID: 1883583341175800125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 391
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2faea58c29e012d0800000000000000
+      internalID: -3309889348686663893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 392
+        width: 49
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b27ae0c84e3a2ca0800000000000000
+      internalID: -6040947467968941389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 392
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8c4d4701dfd9090800000000000000
+      internalID: -8025980713782949651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 392
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1411dfefaf1a4e860800000000000000
+      internalID: 7558344174026428737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 296
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209d1d062f7ae8030800000000000000
+      internalID: 3498918619961743618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 296
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18457c8d666dacac0800000000000000
+      internalID: -3834016395540605823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_50
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 296
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a226ce33a692ff6e0800000000000000
+      internalID: -1801675789810507222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 296
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d0ff57245acee0800000000000000
+      internalID: -1240086219297073777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 296
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45eb0b66af3222d0800000000000000
+      internalID: -3305009192543460020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_53
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 296
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d3a4a01c2a6e950800000000000000
+      internalID: 6478044064004062607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_54
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 296
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c3853ede007b040800000000000000
+      internalID: 4663196960886897790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_55
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 296
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ad9869dbfbfea0800000000000000
+      internalID: -5837795580774079567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 268
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab212fdb9a8351ff0800000000000000
+      internalID: -66084317839617350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 277
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d73a4292fa94a4b0800000000000000
+      internalID: -5430044884074874923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_58
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447fbcf779cba940800000000000000
+      internalID: 5308558102964958279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 278
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92738fbd5b3d6cf0800000000000000
+      internalID: -257484329859190113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 268
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334aaf8d4732009c0800000000000000
+      internalID: -3963128687322553293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 277
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccba29dd5a376e20800000000000000
+      internalID: 3343705423095708869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_62
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4e814280f8d6de0800000000000000
+      internalID: -1338256249131047701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_63
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 263
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32440b997063fa690800000000000000
+      internalID: -7588787440824859613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_64
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 247
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb7fd8a81a2193a0800000000000000
+      internalID: -6660496088503452743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_65
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 247
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afba7aa3410aab40800000000000000
+      internalID: 5452171689020014502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_66
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 263
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864127d7d9d87be0800000000000000
+      internalID: -1479192956540729720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 200
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4026048620c776c0800000000000000
+      internalID: -4145633660314967985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 199
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd17d7847df0a150800000000000000
+      internalID: 5881979790282923509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 200
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6067a9addbb7fa0800000000000000
+      internalID: -5801834948344805677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 200
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56f694adf4dc0d0800000000000000
+      internalID: -3400974344641354274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 200
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a934e2b99cbec8c0800000000000000
+      internalID: -3977034052604249688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_72
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 267
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d6166ea91ae25b0800000000000000
+      internalID: -5391194017253724827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 267
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892429b3f4437aed0800000000000000
+      internalID: -2402894361272368488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 200
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9eda1336a5cd330800000000000000
+      internalID: 3736961172892412385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_75
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 182
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57c52572fff0a9f0800000000000000
+      internalID: -459085745179211937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_76
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 182
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8047c559e154df0800000000000000
+      internalID: -196717381870679816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_77
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 196
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcbd91e99f2bc1b0800000000000000
+      internalID: -5635358170762330914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_78
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 196
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43cc7bf6b4de820800000000000000
+      internalID: 2949096274194609387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_79
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 198
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ae695c2e7b26e80800000000000000
+      internalID: -8186778988000646515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e33935c44d767e70800000000000000
+      internalID: 9112608630350885863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76a350e254bfd9c0800000000000000
+      internalID: -3900200484235663750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_82
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bba6e558688e9e0800000000000000
+      internalID: -1591874560902644846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_83
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02062504badf1bf0800000000000000
+      internalID: -351321779196263925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 99
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e705d43c705845a00800000000000000
+      internalID: 744366106810863742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_85
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477eddf1e7cca2930800000000000000
+      internalID: 4119329651256321908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_86
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29825c25ce562bb0800000000000000
+      internalID: -4961173738556847828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_87
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 97
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf907c07b2f9ad40800000000000000
+      internalID: 5596270879986196420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d2dd9d4b0770990800000000000000
+      internalID: -7419837939018027750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_89
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 104
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c423ae60e797070800000000000000
+      internalID: 8104647572593986618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_90
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 120
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411fcb75361cae5d0800000000000000
+      internalID: -3032398766662684396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_91
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 117
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b47a462b878093e0800000000000000
+      internalID: -2048988798740958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_92
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 117
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa727eeb4e24d120800000000000000
+      internalID: 2437624201972185766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_93
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 117
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b41c232e8ded9230800000000000000
+      internalID: 3647332467971200180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_94
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 117
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb6c9e013511910800000000000000
+      internalID: 1806316257658977698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_95
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd1e5e7df9eac00800000000000000
+      internalID: 913843524026359285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_96
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 67
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c0088a005a02650800000000000000
+      internalID: 6206141708762090529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95a8bfaee28dbe30800000000000000
+      internalID: 4520913562611787162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 67
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d9c0b0e5bcaab10800000000000000
+      internalID: 1993629389837606242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_99
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198f58a7677c7780800000000000000
+      internalID: -8683934694386988769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_100
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 67
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617942d9ecc2d50b0800000000000000
+      internalID: -5738381084288837866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_101
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 100
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b2c4d247928d40800000000000000
+      internalID: 5585192801186002936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_102
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804fe2c760c6afa0800000000000000
+      internalID: -5789728719053569907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_103
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2f53a77c32874a0800000000000000
+      internalID: -6595482314628271379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_104
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 100
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32642d54f3796a10800000000000000
+      internalID: 1903179810912625211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_105
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21edab67f3b10c0800000000000000
+      internalID: -4604016414882393361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_106
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05353deb7c17d30800000000000000
+      internalID: 4427539531085074655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_107
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 100
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e74e0c5eb7968340800000000000000
+      internalID: 4865743291264419816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_108
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566bfdba845a233d0800000000000000
+      internalID: -3228336251331430811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_109
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5dac87f8177cb0800000000000000
+      internalID: -4866393420854370953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_110
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8489668c5329340800000000000000
+      internalID: 4869013281971914988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_111
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687f7dc7e30994d0800000000000000
+      internalID: -3127464172112086931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_112
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 100
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd2c3cfc9c0762e0800000000000000
+      internalID: -2132722030150406672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_113
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 83
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022c047f37313c60800000000000000
+      internalID: 7796073175624458763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7657335a2842910800000000000000
+      internalID: 1811716596154329034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_115
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c80f6529d773e0800000000000000
+      internalID: -2055935950071477879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_116
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 24
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3330a569e01568b80800000000000000
+      internalID: -8392931732464467149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_117
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 35
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c239856409e993960800000000000000
+      internalID: 7582265790147629868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_118
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 50
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41ac31c6613064d0800000000000000
+      internalID: -3143458222506204849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_119
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 59
+        width: 50
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9fe64c34d68c0d0800000000000000
+      internalID: -3402349380652566070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_120
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7456fc2e46a384190800000000000000
+      internalID: -7978062534910450361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_121
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306be37e52cf01cb0800000000000000
+      internalID: -4895135555228092925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_122
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a914f0d4c0487ef20800000000000000
+      internalID: 3451872827770093978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_123
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 72
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cde81fd3f2cf5f80800000000000000
+      internalID: -8115553650822550071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_124
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 62
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b908e8c137e8b090800000000000000
+      internalID: -8018404935523104332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_125
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 71
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef51b898addea7c0800000000000000
+      internalID: -4058062498028232729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_126
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 66
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a356b1215a5004040800000000000000
+      internalID: 4629706623468397882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_127
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 66
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18e0e56f21c8ba10800000000000000
+      internalID: 1925501250017749019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_128
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e0fd9bf194eecf0800000000000000
+      internalID: -221158931083358658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_129
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae53b7b1e108f700800000000000000
+      internalID: 574211021450993314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_130
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2ae252821320fc0800000000000000
+      internalID: -3530205109412781369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_131
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 50
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88d8e4d23d175e50800000000000000
+      internalID: 6797934266696652942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_132
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89785e0c943ad9310800000000000000
+      internalID: 1413465395228411800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_133
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 61
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25036b3c973749e0800000000000000
+      internalID: -1637278795375114963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_134
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445a65f9199ac100800000000000000
+      internalID: 129083876104098891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_135
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 33
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d93feba7e1da340800000000000000
+      internalID: 4876587484050595145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_136
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb8ed1e15c8ff280800000000000000
+      internalID: -9007326446408004674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_137
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 50
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b191b910538ddd760800000000000000
+      internalID: 7484375877931440411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_138
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb1623e1c68c400800000000000000
+      internalID: 344644248443927529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_139
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca451335c4f4344e0800000000000000
+      internalID: -1998666620390517588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 33
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c934ab51033120800000000000000
+      internalID: 2392257320172767432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_141
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b09900df4d9bc0800000000000000
+      internalID: -3774773157734336241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_142
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd257875bdd776440800000000000000
+      internalID: 4929046698200093407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_143
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 33
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a4c7a263ec7ab50800000000000000
+      internalID: 6604474110598466151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_144
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a4a995bcd62760800000000000000
+      internalID: 7432870907546478845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_145
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9142a32f61f0330800000000000000
+      internalID: 3679184650198325705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_146
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 33
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e076101ece96264f0800000000000000
+      internalID: -836990114629327090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_147
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab82e493fc988e80800000000000000
+      internalID: -8176112553502274646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_148
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6b7d072324fc3b0800000000000000
+      internalID: -5490096636332362066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_149
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafd79f773eab4c0800000000000000
+      internalID: -4270851192181097772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_150
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c4cb80ad4a653c0800000000000000
+      internalID: -4371125131960103828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_151
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9c88b625910c80800000000000000
+      internalID: -8358235439885411830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_152
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d1b1f339396f4e0800000000000000
+      internalID: -1948207528162943737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_153
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f586deac51168020800000000000000
+      internalID: 2343579745860879858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 8
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f626c318560cd9d50800000000000000
+      internalID: 6745759359063319151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_155
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49d938fd6c82810800000000000000
+      internalID: 1740859919266845920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 10
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12b918159d4e6a60800000000000000
+      internalID: 7669152518208336412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_157
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 10
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c00de7565f26a20800000000000000
+      internalID: 3054273313578683409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_158
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9806298ea829a83b0800000000000000
+      internalID: -5509430068829331319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_159
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfd97e4ec9512600800000000000000
+      internalID: 441732981073764306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_160
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f500c81b6f1fe0800000000000000
+      internalID: -1216135620321741522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_161
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f39bef7c5b6670800000000000000
+      internalID: 8533015623466481649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_162
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc616ae9da65e7910800000000000000
+      internalID: 1837001001704756939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33d1a0c677557b54998320bc282a5c3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_0: 9156918040952734907
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_1: 2525820796345011201
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_10: 3107990718432512581
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_100: -5738381084288837866
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_101: 5585192801186002936
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_102: -5789728719053569907
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_103: -6595482314628271379
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_104: 1903179810912625211
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_105: -4604016414882393361
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_106: 4427539531085074655
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_107: 4865743291264419816
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_108: -3228336251331430811
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_109: -4866393420854370953
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_11: 7505897090334248612
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_110: 4869013281971914988
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_111: -3127464172112086931
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_112: -2132722030150406672
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_113: 7796073175624458763
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_114: 1811716596154329034
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_115: -2055935950071477879
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_116: -8392931732464467149
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_117: 7582265790147629868
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_118: -3143458222506204849
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_119: -3402349380652566070
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_12: -192291044170037032
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_120: -7978062534910450361
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_121: -4895135555228092925
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_122: 3451872827770093978
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_123: -8115553650822550071
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_124: -8018404935523104332
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_125: -4058062498028232729
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_126: 4629706623468397882
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_127: 1925501250017749019
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_128: -221158931083358658
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_129: 574211021450993314
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_13: -1392323643207908355
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_130: -3530205109412781369
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_131: 6797934266696652942
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_132: 1413465395228411800
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_133: -1637278795375114963
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_134: 129083876104098891
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_135: 4876587484050595145
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_136: -9007326446408004674
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_137: 7484375877931440411
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_138: 344644248443927529
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_139: -1998666620390517588
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_14: 8583742093757301667
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_140: 2392257320172767432
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_141: -3774773157734336241
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_142: 4929046698200093407
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_143: 6604474110598466151
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_144: 7432870907546478845
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_145: 3679184650198325705
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_146: -836990114629327090
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_147: -8176112553502274646
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_148: -5490096636332362066
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_149: -4270851192181097772
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_15: -1202619930685305717
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_150: -4371125131960103828
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_151: -8358235439885411830
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_152: -1948207528162943737
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_153: 2343579745860879858
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_154: 6745759359063319151
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_155: 1740859919266845920
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_156: 7669152518208336412
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_157: 3054273313578683409
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_158: -5509430068829331319
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_159: 441732981073764306
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_16: -2392844427507811710
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_160: -1216135620321741522
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_161: 8533015623466481649
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_162: 1837001001704756939
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_17: -3395685860381552701
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_18: -4803818522952612655
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_19: 8935482951385399481
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_2: -6119170369232630647
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_20: 5695873988360436235
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_21: 3158080015440846973
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_22: 1680077283447795695
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_23: -8720966745168607090
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_24: 3537647290953674901
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_25: -3692097533747347181
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_26: -8594788715559621170
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_27: -5547634195769203217
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_28: 3126218487759869381
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_29: 3980625473431772156
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_3: 1177380055677205428
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_30: 5433537538199515307
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_31: -8321050910665578699
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_32: -4489179605247431424
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_33: -4758753222144393733
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_34: -3744410895500912319
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_35: -6006195625903415175
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_36: 1589377434609591819
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_37: -2645066832679037516
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_38: -4092919916373371119
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_39: -7301673760668658316
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_4: 5122543550368769246
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_40: 8585981718516953910
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_41: -6430056309559097211
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_42: 1883583341175800125
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_43: -3309889348686663893
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_45: -6040947467968941389
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_46: -8025980713782949651
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_47: 7558344174026428737
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_48: 3498918619961743618
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_49: -3834016395540605823
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_5: -4115569461040940166
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_50: -1801675789810507222
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_51: -1240086219297073777
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_52: -3305009192543460020
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_53: 6478044064004062607
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_54: 4663196960886897790
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_55: -5837795580774079567
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_56: -66084317839617350
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_57: -5430044884074874923
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_58: 5308558102964958279
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_59: -257484329859190113
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_6: -6983387405577876068
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_60: -3963128687322553293
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_61: 3343705423095708869
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_62: -1338256249131047701
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_63: -7588787440824859613
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_64: -6660496088503452743
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_65: 5452171689020014502
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_66: -1479192956540729720
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_67: -4145633660314967985
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_68: 5881979790282923509
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_69: -5801834948344805677
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_7: 2849314587815984867
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_70: -3400974344641354274
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_71: -3977034052604249688
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_72: -5391194017253724827
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_73: -2402894361272368488
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_74: 3736961172892412385
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_75: -459085745179211937
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_76: -196717381870679816
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_77: -5635358170762330914
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_78: 2949096274194609387
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_79: -8186778988000646515
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_8: 6112823068089017406
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_80: 9112608630350885863
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_81: -3900200484235663750
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_82: -1591874560902644846
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_83: -351321779196263925
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_84: 744366106810863742
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_85: 4119329651256321908
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_86: -4961173738556847828
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_87: 5596270879986196420
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_88: -7419837939018027750
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_89: 8104647572593986618
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_9: -2238083397438219804
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_90: -3032398766662684396
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_91: -2048988798740958026
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_92: 2437624201972185766
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_93: 3647332467971200180
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_94: 1806316257658977698
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_95: 913843524026359285
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_96: 6206141708762090529
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_97: 4520913562611787162
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_98: 1993629389837606242
+      TurboGrafx-16 - Bomberman '94 (JPN) - Enemies & Bosses - Saru & Bananacher_99: -8683934694386988769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

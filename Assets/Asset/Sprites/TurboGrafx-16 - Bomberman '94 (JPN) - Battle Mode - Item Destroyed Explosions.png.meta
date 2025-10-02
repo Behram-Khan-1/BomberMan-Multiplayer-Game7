@@ -1,0 +1,1097 @@
+fileFormatVersion: 2
+guid: 699c7fcd7bef1b64b8160ab89d8475a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6973297882962149087
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_0
+  - first:
+      213: 8541672661486629215
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_1
+  - first:
+      213: -5873602729160376106
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_2
+  - first:
+      213: -3729608138040535504
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_3
+  - first:
+      213: 1958163200149928384
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_4
+  - first:
+      213: -6095154462652766958
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_5
+  - first:
+      213: 8617874643325750271
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_6
+  - first:
+      213: -1740367669876786119
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_7
+  - first:
+      213: 9046214019725184381
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_8
+  - first:
+      213: 6150007949438209796
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_9
+  - first:
+      213: -4921249364542006693
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_10
+  - first:
+      213: 4961407424139682960
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_11
+  - first:
+      213: 9203185084300787335
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_12
+  - first:
+      213: 4682134620674889300
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_13
+  - first:
+      213: 4129232960749823623
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_14
+  - first:
+      213: -7496137011170863026
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_15
+  - first:
+      213: 3533707588463033702
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_16
+  - first:
+      213: -7281294433231445524
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_17
+  - first:
+      213: 6818161709350408011
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_18
+  - first:
+      213: -3557498378368491420
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_19
+  - first:
+      213: -2646372778313064255
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_20
+  - first:
+      213: -7120980524225530133
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_21
+  - first:
+      213: 8741425522330353079
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_22
+  - first:
+      213: 5401155040789708450
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_23
+  - first:
+      213: -5770991588268461654
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_24
+  - first:
+      213: 8773266353759374878
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_25
+  - first:
+      213: 8620774177382555951
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_26
+  - first:
+      213: 6076765190368031510
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_27
+  - first:
+      213: -8533191142173319148
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_28
+  - first:
+      213: -2555266599000265435
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_29
+  - first:
+      213: -2558539172082507676
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_30
+  - first:
+      213: 1174744265894998389
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_31
+  - first:
+      213: -7370539786672711117
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_32
+  - first:
+      213: 137165049029511740
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_33
+  - first:
+      213: 536562558781503569
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121ce05858ed93f90800000000000000
+      internalID: -6973297882962149087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 31
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517397a70e1a8670800000000000000
+      internalID: 8541672661486629215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d081a00075cc7ea0800000000000000
+      internalID: -5873602729160376106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03610b4a825cd3cc0800000000000000
+      internalID: -3729608138040535504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 31
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9bd254e0bcc2b10800000000000000
+      internalID: 1958163200149928384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 3
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e17a4f49a96ba0800000000000000
+      internalID: -6095154462652766958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb07422457d89770800000000000000
+      internalID: 8617874643325750271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7b6a33d8f8d7e0800000000000000
+      internalID: -1740367669876786119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 20
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dc0e7d8bb9a8d70800000000000000
+      internalID: 9046214019725184381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 20
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc71855a7395550800000000000000
+      internalID: 6150007949438209796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 20
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5b5fd6c534bbb0800000000000000
+      internalID: -4921249364542006693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 31
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e4ddf3c57ad440800000000000000
+      internalID: 4961407424139682960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_12
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 35
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78efbe7d21848bf70800000000000000
+      internalID: 9203185084300787335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_13
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 31
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45692e761a84af040800000000000000
+      internalID: 4682134620674889300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786e35c008bfd4930800000000000000
+      internalID: 4129232960749823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e489085ca1f58f790800000000000000
+      internalID: -7496137011170863026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66df07e44504a0130800000000000000
+      internalID: 3533707588463033702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1e53a7a45a3fa90800000000000000
+      internalID: -7281294433231445524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f400353f9fe9e50800000000000000
+      internalID: 6818161709350408011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4606154c21a31aec0800000000000000
+      internalID: -3557498378368491420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0e26daaf1364bd0800000000000000
+      internalID: -2646372778313064255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6ff0911f13d2d90800000000000000
+      internalID: -7120980524225530133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb801d238cf4970800000000000000
+      internalID: 8741425522330353079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb41f94e1c4fa40800000000000000
+      internalID: 5401155040789708450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1bd7bf9b159efa0800000000000000
+      internalID: -5770991588268461654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec6b71447e0c970800000000000000
+      internalID: 8773266353759374878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216fb3807423a770800000000000000
+      internalID: 8620774177382555951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 20
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613785b9eb1055450800000000000000
+      internalID: 6076765190368031510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410ef32fdd3049980800000000000000
+      internalID: -8533191142173319148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d2b2c019ed98cd0800000000000000
+      internalID: -2555266599000265435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a910cd2e3e7cd0800000000000000
+      internalID: -2558539172082507676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571399e8fa78d4010800000000000000
+      internalID: 1174744265894998389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a5d746d1596b990800000000000000
+      internalID: -7370539786672711117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_33
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac007a2ee47e100800000000000000
+      internalID: 137165049029511740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15832fbedc0427700800000000000000
+      internalID: 536562558781503569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd08999b751961a4aa6a9fbac47240a2
+      internalID: 1086390218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 2
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b81c7703b9944c8e940229fc1ccdc
+      internalID: 638797139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 4
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991340527a330e2478ab98796e7c85e2
+      internalID: -742700353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4
+        width: 3
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2a9f7f173151542aa397261272df80
+      internalID: 2089511612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d84d11097c7661b42a473654e94f3621
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_35: 1086390218
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_36: 638797139
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_37: -742700353
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Item Destroyed Explosions_38: 2089511612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

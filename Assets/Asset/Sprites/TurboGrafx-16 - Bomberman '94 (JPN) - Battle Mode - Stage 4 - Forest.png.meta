@@ -1,0 +1,3218 @@
+fileFormatVersion: 2
+guid: 65211b75bd7428949925ed84d8cd8108
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1909251307973439293
+    second: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e001f2ba40ab64a92158361bcf345d
+      internalID: 1038056374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bd62279ef912d4a99535f19e4a4286
+      internalID: 958288767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70457aea783842a4faeac81a7fa9d329
+      internalID: 460198736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53c0aaca913ce42bac811c683310b0
+      internalID: -412287876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac94a182b63d544bb676777f98c89e8
+      internalID: 1415454716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974d9e1e60d30404db8a34e9764a17a1
+      internalID: -237959339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad84563a2c06f4c9ad092bab2ea2ce
+      internalID: -1453617121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be763525c6ceed42ab0b71424129054
+      internalID: 477226973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab7a1eaac31b7548b855737f3cf6eea
+      internalID: -196065218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ab31af934f6846ad14101b6aabdd1
+      internalID: -1854458950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2530741a9621140a0d5bd6e647dc74
+      internalID: -1208795223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee88012219bc314ba7a648f0769b4a7
+      internalID: 290383278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bf803ccff8fef4a8c34fac9ee47149
+      internalID: -502209151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2381711c785c6e4192fd45f1545b8b9
+      internalID: 1394331211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c90fd37a914d254da32806dc9eaba9a
+      internalID: 919289148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f850fcd7ea3f3d459bac974776823d2
+      internalID: 212866036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5b5a91c2e558499bf83a8c283f6f8
+      internalID: 1234994157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6111c9dd2bcea04cb59a165d0c18d2c
+      internalID: -819341280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1bf93ca647e7348a5f70a8f2d94b93
+      internalID: -753303102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a6ec1a2c4691a429dfe9db8bfa6797
+      internalID: 203428632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69172e4fe56638047ae6bf0c5dfaa491
+      internalID: 1095740014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a8ea8e4dbda72449f1292d97f0215b
+      internalID: 378348200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385f20b0ec653784fa7f09fc87f8c47a
+      internalID: -1387102006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb3e70a50a33794db9001e7efedced2
+      internalID: 1459161418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f069bc3671c4984d9315d73b2228e89
+      internalID: -468348580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054a8001ab633448b3625f5034fa5d9
+      internalID: -2011278264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_39
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6b2323e9c257d4f8d3cc3a4a91bd11
+      internalID: 1785847451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a0bda5010edbd419f2824bcd3c70c4
+      internalID: 1617226499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_41
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3b82e826a51d4b8a398abdc08eef2
+      internalID: -1384701657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8d53c5a27e8594bbf2d423b75d725f
+      internalID: -1918132479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a083b21ece290f1489bf49d77a334048
+      internalID: -1065990639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ca72deab3ddc4280a6cca8c83521b
+      internalID: -107123365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc000d2c5754654b9e522b7a99e811a
+      internalID: -2089239403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8732cb14de623242ba89446810d88cf
+      internalID: 1429039306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35216694d30d03e48addfefdead739c3
+      internalID: -790141684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637ded1bb8bbea7498805c9cd33910c3
+      internalID: -650154139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_67
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744778876970c4469aa194ce685a6b0
+      internalID: -66359284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f87094421248a641acb21687f88bc0b
+      internalID: 391759920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_69
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55244cae50e148044a1e09b9e98a4cf9
+      internalID: 73278078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b7230236b023047aa5997b87286f4b
+      internalID: 26783766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db58825e9610e74d8826af2a557e6ff
+      internalID: -295158420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_79
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5583fe81f9952143bd97eacf18a9db9
+      internalID: -733195926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_83
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a78c596a4c2b14aac4344a12c5d250
+      internalID: 1374685536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2e3fa3f9851e14dadc67b40c6a2199
+      internalID: 1502345367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038ce93930741fc4ca808c0543e7b83f
+      internalID: -1966110197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f7049765ee5a4e96fb5f5c7cab0db
+      internalID: -1417082904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71452cc857198d841a51d05432c7d129
+      internalID: 2063577368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a407e2854773064a80e02799c653d62
+      internalID: 383053301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc787bd74830846bccc986a6fcfd47
+      internalID: -1775131780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1220859fc2181347ab752d6eb0f9be2
+      internalID: -1371795362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38307b9227debd4d994dc6db506713a
+      internalID: -1206041964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6435c068e0b834b9f11bc0dc1f0548
+      internalID: 1619593276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_117
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa49719f270e14f8a5dc9c6da0e786
+      internalID: -617652904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9453b8a225013e94aa91c4c503045bcc
+      internalID: -306296211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be50456331d0ab6498276a3e5db14cb9
+      internalID: -575143852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836f370ad31b9ac48b79b071f99ffc3c
+      internalID: -654369318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_134
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414c8098f984f214ea2d35937669c827
+      internalID: -262752038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_135
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f977abecff0011549bcd03f5e6595261
+      internalID: -478024465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ed32577b50c649bc2cb16ce66a778
+      internalID: -6082621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d805c8784822049ad2d63789758c4d
+      internalID: -314103852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c53ee98947d94c4c96e079a796d0f12
+      internalID: 712490537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f963dd914d012499ab9dc4c672e2d1
+      internalID: 562058022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19586876deb676e4f8a4361049bb5afe
+      internalID: 1331274471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7780979fbf6f84c8737b8ff0dc00d3
+      internalID: 947763180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1347d2418c7021647a5e1bea41129de6
+      internalID: -1621083510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26fcddef50e2c4897dc6644208870a
+      internalID: -249708826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a195958be44f24a9b505e401abaafb
+      internalID: -1632734571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_171
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c10d358c5b3fa49894153fac4cbaba
+      internalID: -134458627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_185
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1890ee7ce04b7c34d8600b1a856df900
+      internalID: 1497391738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_186
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c969e51eb80ca2a4faffe266d0ad90ac
+      internalID: -490143223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45fad99f91e897428f90ec50131cb2c
+      internalID: -294664527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_188
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021fd549cf091b4dbb3405f73b98ce2
+      internalID: -2068521342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_202
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eaa12399bb3a9499935e684d72e29a
+      internalID: 1689254837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_203
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71985f13c9f97574a8b8153056894255
+      internalID: 315863592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f065261ae886b41885ed5991273297
+      internalID: 1350483182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_205
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c1fb0fbd4d5543a4b5a4167f4c623
+      internalID: -1822082953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d108feada1820468243a4c801923e4
+      internalID: 1006192246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_207
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb83f8b171b3f8e43baf8f7e801e3edf
+      internalID: 1348361399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_208
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0c29140fb4ce49bba4ad973a71e2f
+      internalID: -1542898762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_209
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304051859425204d83950a6b81ce2d5
+      internalID: 1070005041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_210
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f3e0c9bf1b17468b7fb0693660a87
+      internalID: 355930615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_211
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2401470ff69e2d488ccdb621dae519b
+      internalID: -1799076795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53537421f6cfceb4b8969d2b1d7fa37c
+      internalID: 2084960184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_213
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a93bd151e97547926a0dc62a8592b
+      internalID: 2027633420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_214
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4046d00b2166a014d8c2205161d3537b
+      internalID: 580454033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_215
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d4f8340c97d94eb96d12b3a40ac97
+      internalID: 727219809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e197c026a4649498fc3ae5dc61944d
+      internalID: -1255928591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_217
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e91939026e852438562793f7747e63
+      internalID: -1236688348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_218
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f394ecee4b334bb4fff26466e03d5
+      internalID: -1008723445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_219
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ad0777ee8ede419e9822ab8d9f2f6
+      internalID: 1387847029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc5c04aa5e42a2489da5afc04658b77
+      internalID: 508720238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54f955323358c0419c3b4eb01fdbbc8
+      internalID: -1606960618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_222
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d135a14ecf8f499fa41cfe60fbba0
+      internalID: 605873297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_223
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b803c09b9b3a64db925c235e3823ce
+      internalID: 1601664921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_224
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f1fe3eba01ff42b492f5a7847b77e
+      internalID: 612722281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_225
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6980009be965eaf4ea609f7e8bea3557
+      internalID: -1873405074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_226
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4917c499776540ba7262cfaf49ff2
+      internalID: -848098246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87121f8174ec7674283ec6a831937d0e
+      internalID: 2059414030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_228
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbefc4a4af4f84988208cca7506c2c
+      internalID: -1896142914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_238
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c97c43d33b02a4f98eb4d74ae6179f
+      internalID: -1610805398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_281
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bfb3474f5ae8a48872d72743e4ee14
+      internalID: 834379527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_282
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3a8bffff66a5646a936d02d4d27d24
+      internalID: -750893169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29bea166b041d54d975bb6918618ebf
+      internalID: -1369313001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_288
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280aa9655c74fc3408fc59833cf175b8
+      internalID: -775705868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_298
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993d51d17cbb9ec429e4beb19bdfb422
+      internalID: -1048835119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_299
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51276aad51874a14da570dba1e0d87a8
+      internalID: 1506925860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_304
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343905520357954e85a873375ed418d
+      internalID: 566804023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_305
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08669c306a4bf49ad89ee0cc9e4144
+      internalID: 381167263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_315
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111d277f524cf94c8977fd0b6a20b4b
+      internalID: 1094631853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_316
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06751851abcd5469b7c6589565de0e
+      internalID: -1275351497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_321
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776272512e9dd7f42921cfef94e5d456
+      internalID: 877958994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_322
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9427ea650584c4a4eb2c85b58f6baca7
+      internalID: 1612422123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_332
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7be078da2508624194eb25b6df6fbe9
+      internalID: 1766551250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_333
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e02f36bacd294f8e4f2aae6085c0e
+      internalID: 1824095692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_338
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4055987da8077c4d8ff4da7912c6e9f
+      internalID: 97282255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_339
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8958a9a5252f7e40817f55aded7bf35
+      internalID: -1246625605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_349
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4f0170af5a6e4e94207b3c821d932
+      internalID: -784106057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_350
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bb4aab6173c0d499ad663e60ca4d1f
+      internalID: 84275790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_351
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ca00e0bda4c0489644201210fb4d3
+      internalID: -1181681442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_352
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dba569b24390a4bbc8062e1c2b08d5
+      internalID: -628246265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_353
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df66532377d2a9a4a8eca6ae7dcde8df
+      internalID: 1930707451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_354
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7baf59a483651489e0a857493b5b5e
+      internalID: -1514773376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_355
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8afbb5fd0578664cabbd8e94313912a
+      internalID: 448996646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_356
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe313b26a06b43408220b3310f33f72
+      internalID: 286419538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 70b249915bed5b64798acab1df07ea23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_0: 1038056374
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_1: 958288767
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_10: -1208795223
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_100: 383053301
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_101: -1775131780
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_102: -1371795362
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_103: -1206041964
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_104: -1821264621
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_105: 1619593276
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_106: 1714006022
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_107: 1267818450
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_108: 776305228
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_109: 708509478
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_11: 290383278
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_110: 1780098322
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_111: 2021839305
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_112: -959998591
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_113: -1798456016
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_114: -1079809910
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_115: 1996930328
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_116: 2045083462
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_117: -617652904
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_118: -306296211
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_119: -575143852
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_12: -502209151
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_120: -654369318
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_121: -321230642
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_122: -1157574055
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_123: 1251569045
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_124: -207913169
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_125: 1785021841
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_126: -979205090
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_127: 690107590
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_128: 1159141281
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_129: 1012930375
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_13: 1394331211
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_130: 1685019567
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_131: 7359754
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_132: -234116250
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_133: -565156916
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_134: -262752038
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_135: -478024465
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_136: -6082621
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_137: -314103852
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_138: -1695133057
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_139: 1730069408
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_14: 919289148
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_140: -1732583543
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_141: -815282801
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_142: -1295299908
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_143: -761187068
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_144: -1799915309
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_145: 1433537957
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_146: 981190875
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_147: 685283099
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_148: -1469491742
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_149: -1631686966
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_15: 212866036
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_150: -2075692786
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_151: 712490537
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_152: 562058022
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_153: 1331274471
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_154: 947763180
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_155: -942630364
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_156: 2025294021
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_157: -288989189
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_158: 594761787
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_159: -1642398262
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_16: 1234994157
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_160: 512087765
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_161: -43886005
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_162: 1183817319
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_163: 1933858774
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_164: 1693483063
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_165: -969674747
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_166: 356178782
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_167: -1010058013
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_168: -1621083510
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_169: -249708826
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_17: -819341280
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_170: -1632734571
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_171: -134458627
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_172: 646849834
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_173: 870441175
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_174: -1010758161
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_175: -1756033519
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_176: -1428232754
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_177: -1656446277
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_178: -114394482
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_179: -1766787527
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_18: -753303102
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_180: 1801262897
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_181: 21862154
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_182: -1098246162
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_183: 453631914
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_184: -112144848
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_185: 1497391738
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_186: -490143223
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_187: -294664527
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_188: -2068521342
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_189: 1088765912
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_19: 203428632
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_190: -95498833
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_191: 1270494582
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_192: 1957347997
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_193: -1755602487
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_194: -967312259
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_195: -1944461685
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_196: 1576590153
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_197: -1737224881
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_198: -687604464
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_199: 1413610603
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_2: 460198736
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_20: 1708091927
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_200: 627668054
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_201: -1171420364
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_202: 1689254837
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_203: 315863592
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_204: 1350483182
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_205: -1822082953
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_206: 1006192246
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_207: 1348361399
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_208: -1542898762
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_209: 1070005041
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_21: -1133751834
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_210: 355930615
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_211: -1799076795
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_212: 2084960184
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_213: 2027633420
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_214: 580454033
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_215: 727219809
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_216: -1255928591
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_217: -1236688348
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_218: -1008723445
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_219: 1387847029
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_22: 1864064250
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_220: 508720238
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_221: -1606960618
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_222: 605873297
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_223: 1601664921
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_224: 612722281
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_225: -1873405074
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_226: -848098246
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_227: 2059414030
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_228: -1896142914
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_229: -1657381128
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_23: -564760679
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_230: 1423083587
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_231: 664779704
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_232: 875708889
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_233: -1702687584
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_234: -1618811455
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_235: -1435079924
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_236: -1235159874
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_237: 230604631
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_238: -1610805398
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_239: 1497254033
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_24: -300675715
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_240: -320297746
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_241: 1434737875
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_242: -1668491327
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_243: -124342674
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_244: 1050536399
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_245: -1159669369
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_246: -926220460
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_247: 428838151
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_248: 1933526899
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_249: 1286550738
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_25: -1025468718
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_250: 105842237
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_251: -1591994248
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_252: 2103107301
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_253: 442885733
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_254: -587564948
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_255: -1743521350
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_256: 1325410447
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_257: 685876069
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_258: -277182084
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_259: 1851228376
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_26: 1453505355
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_260: -1529461851
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_261: 1514063048
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_262: -2130668403
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_263: 157174419
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_264: 447434688
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_265: 1590734278
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_266: 1836143610
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_267: -972968261
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_268: -468032801
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_269: 234285022
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_27: 2032497611
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_270: -1908986683
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_271: -327307133
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_272: -723854353
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_273: -90019767
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_274: 451720144
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_275: -1009010599
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_276: 523853692
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_277: -1671636031
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_278: -37376737
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_279: -2069332000
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_28: -1287344178
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_280: 490846640
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_281: 834379527
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_282: -750893169
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_283: 491227792
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_284: -1240693012
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_285: 2010030063
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_286: 1802491808
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_287: -1369313001
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_288: -775705868
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_289: -1300634244
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_29: -1918260041
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_290: 257660471
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_291: 223807025
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_292: -1316065437
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_293: 1744624271
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_294: 592317281
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_295: 545808518
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_296: -716458289
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_297: -1693653094
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_298: -1048835119
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_299: 1506925860
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_3: -412287876
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_30: 382955352
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_300: -1803655513
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_301: 1691658018
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_302: -533015228
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_303: 291696973
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_304: 566804023
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_305: 381167263
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_306: 594353758
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_307: 2128790256
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_308: -1713168393
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_309: 955220809
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_31: 1095740014
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_310: 1257368344
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_311: -1744416504
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_312: 1619881326
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_313: 976260485
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_314: 248759372
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_315: 1094631853
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_316: -1275351497
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_317: 1352579638
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_318: 1459177068
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_319: -1080556376
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_32: 378348200
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_320: 381113637
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_321: 877958994
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_322: 1612422123
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_323: 492635918
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_324: -405716466
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_325: -2085426799
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_326: -1667610841
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_327: -78783990
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_328: 690367282
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_329: 992913739
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_33: -1387102006
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_330: -360001569
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_331: -1473911636
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_332: 1766551250
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_333: 1824095692
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_334: -458038248
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_335: -130126569
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_336: 1350007731
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_337: -374091894
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_338: 97282255
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_339: -1246625605
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_34: 1459161418
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_340: 1794404181
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_341: 1701085116
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_342: 1039313588
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_343: -1506101441
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_344: 1721003812
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_345: 133574358
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_346: 935249756
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_347: -1603740368
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_348: 713281815
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_349: -784106057
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_35: -468348580
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_350: 84275790
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_351: -1181681442
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_352: -628246265
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_353: 1930707451
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_354: -1514773376
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_355: 448996646
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_356: 286419538
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_36: -171296407
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_37: -2011278264
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_38: 1395287645
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_39: 1785847451
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_4: 1415454716
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_40: 1617226499
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_41: -1384701657
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_42: -1918132479
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_43: 673498868
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_44: 110918180
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_45: -654980324
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_46: 2011658133
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_47: 156671790
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_48: -423652540
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_49: -1065990639
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_5: -237959339
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_50: -107123365
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_51: -2089239403
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_52: 1429039306
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_53: 387356145
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_54: 1986386859
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_55: 779849801
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_56: -754876830
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_57: -790141684
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_58: -1018157014
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_59: -1812842710
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_6: -1453617121
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_60: 1720890160
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_61: 436632735
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_62: 2125818085
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_63: -1187326732
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_64: 1015834971
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_65: -422013627
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_66: -650154139
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_67: -66359284
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_68: 391759920
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_69: 73278078
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_7: 477226973
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_70: 666769370
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_71: 26783766
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_72: -2047431691
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_73: 1478260482
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_74: 2011650603
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_75: 387225472
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_76: -263002254
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_77: -295158420
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_78: -1673957275
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_79: -733195926
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_8: -196065218
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_80: -1247955542
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_81: -308298091
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_82: -1094730935
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_83: 1374685536
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_84: 1502345367
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_85: -1966110197
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_86: -1417082904
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_87: 1216992962
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_88: 2063577368
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_89: 1837760697
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_9: -1854458950
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_90: 322061443
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_91: -1516573841
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_92: 168036422
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_93: -1751961169
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_94: -1896342957
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_95: -1815821006
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_96: 731990158
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_97: -2027640112
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_98: -415177421
+      TurboGrafx-16 - Bomberman '94 (JPN) - Battle Mode - Stage 4 - Forest_99: 1356398135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
