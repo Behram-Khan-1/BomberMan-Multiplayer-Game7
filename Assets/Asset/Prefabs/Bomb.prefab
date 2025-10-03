@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8170526445982832369}
   m_Layer: 0
   m_Name: Bomb
-  m_TagString: Untagged
+  m_TagString: Bomb
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46,8 +46,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57e64688b4db55642b7033acffe02f96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pushSpeed: 3
+  pushDirection: {x: 0, y: 0}
   bombRange: 2
   redDebugDot: {fileID: 7961085260235972096, guid: d1bd40d4a16437a4485f912848189725, type: 3}
+  isDebugging: 0
 --- !u!61 &8170526445982832369
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -106,7 +109,7 @@ GameObject:
   - component: {fileID: 430711367580120457}
   m_Layer: 0
   m_Name: BombVisuals
-  m_TagString: Untagged
+  m_TagString: Bomb
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

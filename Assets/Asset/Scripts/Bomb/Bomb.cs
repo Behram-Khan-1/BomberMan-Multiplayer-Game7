@@ -1,35 +1,75 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Mono.Cecil.Cil;
 using UnityEngine;
-using UnityEngine.Tilemaps;
-using UnityEngine.UIElements;
 
 public class Bomb : MonoBehaviour
 {
     //Make it explode after timer
     //Make it go 3x3 blocks 
     //Stop at obstacles and destroy them
-
     //Kill enemies and us.
+
     //Kick Bomb some blocks far
     //Walkable for 1 sec then be solid
+    [SerializeField] private float pushSpeed = 2f;
+    [SerializeField] private Vector2Int pushDirection = Vector2Int.zero;
     [SerializeField] private int bombRange = 2;
-    public GameObject redDebugDot;
+
     List<Vector3Int> explosionTiles = new List<Vector3Int>();
+    private Vector3Int bombCell;
+
+    public GameObject redDebugDot;
+    public bool isDebugging = false;
+    private bool isPushing = false;
+    // public event Action<List<Vector3Int>> OnExplode;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        GetComponent<BoxCollider2D>().enabled = false;
-      
+        // GetComponent<BoxCollider2D>().enabled = false;
+        bombCell = TilemapPlacement.instance.WorldToCell(transform.position);
+        nextCell = bombCell + new Vector3Int(pushDirection.x, pushDirection.y, 0);
+        nextCellCenter = TilemapPlacement.instance.CellWorldCenter(nextCell);
+
     }
 
     // Update is called once per frame
     void Update()
     {
         StartCoroutine(TimerWithCallback(3f, Explode));
+        if (isPushing)
+        {
+            Pushing();
+        }
     }
+
+    Vector3Int nextCell;
+    Vector3 nextCellCenter;
+    void Pushing()
+    {
+        transform.position = Vector3.MoveTowards(transform.position, nextCellCenter, pushSpeed * Time.deltaTime);
+
+        if (Vector3.Distance(transform.position, nextCellCenter) < 0.1f)
+        {
+            transform.position = nextCellCenter;
+            bombCell = TilemapPlacement.instance.WorldToCell(transform.position);
+            nextCell = bombCell + new Vector3Int(pushDirection.x, pushDirection.y, 0);
+            nextCellCenter = TilemapPlacement.instance.CellWorldCenter(nextCell);
+
+            RaycastHit2D hit = Physics2D.Raycast(transform.position
+             + new Vector3(pushDirection.x, pushDirection.y, 0) / 2, pushDirection, 0.5f);
+
+
+            if (!TilemapPlacement.instance.CanMoveToCell(nextCell)
+                || hit.collider != null && hit.collider.CompareTag("Bomb"))
+            {
+                isPushing = false;
+                Debug.Log("Stopped Pushing");
+                return;
+            }
+        }
+    }
+
 
     void Explode()
     {
@@ -38,7 +78,7 @@ public class Bomb : MonoBehaviour
         { Vector2Int.up, Vector2Int.down, Vector2Int.left, Vector2Int.right };
 
         //PlayAnimation
-        var bombCell = TilemapPlacement.instance.WorldToCell(transform.position);
+        bombCell = TilemapPlacement.instance.WorldToCell(transform.position);
         explosionTiles.Add(bombCell);
         for (int j = 0; j < directions.Count; j++) // 0 1 2 3
         {
@@ -60,15 +100,18 @@ public class Bomb : MonoBehaviour
             }
         }
         // 🔴 Spawn red dots at each explosion cell center
-        foreach (var cell in explosionTiles)
+        if (isDebugging)
         {
-            Vector3 worldPos = TilemapPlacement.instance.CellWorldCenter(cell);
-            Instantiate(redDebugDot, worldPos, Quaternion.identity);
+            foreach (var cell in explosionTiles)
+            {
+                Vector3 worldPos = TilemapPlacement.instance.CellWorldCenter(cell);
+                Instantiate(redDebugDot, worldPos, Quaternion.identity);
+            }
         }
 
         DestroyBlocks();
-        Destroy(gameObject);
         KillMobs();
+        Destroy(gameObject);
     }
 
     private void DestroyBlocks()
@@ -84,14 +127,7 @@ public class Bomb : MonoBehaviour
 
     private void KillMobs()
     {
-        foreach (var cell in explosionTiles)
-        {
-            if (cell == GameManager.instance.currentPlayerCell)
-            {
-                GameManager.instance.PlayerDied();
-            }
-        }
-        
+        GameManager.instance.Bomb_ExplosionDeath(explosionTiles);
     }
 
 
@@ -104,4 +140,10 @@ public class Bomb : MonoBehaviour
     {
         yield return new WaitForSeconds(seconds);
     }
+    public void SetIsPushing(bool isPushing, Vector2Int dir)
+    {
+        this.isPushing = isPushing;
+        pushDirection = dir;
+    }
+
 }
