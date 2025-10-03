@@ -1,8 +1,19 @@
 using UnityEngine;
-
+//Touch with mobs kill
+//Add Death effects
+//Add respawn function
+//Add 2nd mob that chases
+//Move to multiplayer
 public class Player : MonoBehaviour, IDamagable
 {
     private Vector3Int currentPlayerCell;
+    [SerializeField] private int bombRange = 2;
+    [SerializeField] private int bombCount = 1;
+    [SerializeField] private int bombPlaced = 0;
+    [SerializeField] private int initialBombRange = 2;
+    [SerializeField] private int initialBombCount = 1;
+    [SerializeField] private int initialBombPlaced = 0;
+    [SerializeField] private int lifes = 2;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -24,6 +35,49 @@ public class Player : MonoBehaviour, IDamagable
     public void TakeDamage()
     {
         Debug.Log("Player Took Damage");
-        GameManager.instance.PlayerDied();
+        lifes--;
+        bombRange = initialBombRange;
+        bombCount = initialBombCount;
+        bombPlaced = initialBombPlaced;
+        //Later make player drop all the powerups so other can rush to it.
+        if (lifes <= 0)
+        {
+            GameManager.instance.PlayerDied();
+            GameManager.instance.RemoveEntity(this);
+        }
     }
+    public int GetBombRange()
+    {
+        return bombRange;
+    }
+    public int GetBombCount()
+    { return bombCount; }
+    public int IncreaseBombCount()
+    { return bombCount; }
+    public int GetPlacedBombCount()
+    { return bombPlaced; }
+    public void SetBombPlacedCount(int bombPlaced)
+    { this.bombPlaced = bombPlaced; }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        PowerupType powerupType = collision.gameObject.GetComponent<PowerUp>().powerupType;
+        if (powerupType == PowerupType.ExtraBomb)
+        {
+            Debug.Log("Player Got Extra Bomb");
+            bombCount++;
+        }
+        else if (powerupType == PowerupType.ExtraLife)
+        {
+            Debug.Log("Player Got Extra Life");
+            lifes++;
+        }
+        else if (powerupType == PowerupType.ExtraRange)
+        {
+            Debug.Log("Player Got Extra Range");
+            bombRange++;
+        }
+        Destroy(collision.gameObject);
+    }
+
 }

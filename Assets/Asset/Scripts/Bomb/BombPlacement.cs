@@ -3,6 +3,7 @@ using UnityEngine;
 public class BombPlacement : MonoBehaviour
 {
     private PlayerMovement playerMovement;
+    Player player;
     [SerializeField] private GameObject bombPrefab;
     private Vector3Int nextCell;
     Vector2Int previousDir;
@@ -14,6 +15,9 @@ public class BombPlacement : MonoBehaviour
 
         playerMovement = GetComponent<PlayerMovement>();
         playerMovement.OnMove += PlaceBomb;
+        player = GetComponent<Player>();
+
+        Bomb.OnExplode += IncreaseBombCount;
     }
 
     void PlaceBomb(Vector2Int dir)
@@ -39,11 +43,25 @@ public class BombPlacement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && canPlaceBomb)
+        if (Input.GetKeyDown(KeyCode.Space) && canPlaceBomb
+            && player.GetPlacedBombCount() <= player.GetBombCount()
+        )
         {
-            Instantiate(bombPrefab,
+            var bomb = Instantiate(bombPrefab,
             TilemapPlacement.instance.CellWorldCenter(nextCell),
             Quaternion.identity);
+
+            bomb.GetComponent<Bomb>().SetBombRange(player.GetBombRange());
+            ReduceBombCount();
         }
+    }
+
+    void ReduceBombCount()
+    {
+        player.SetBombPlacedCount(player.GetPlacedBombCount() + 1);
+    }
+    void IncreaseBombCount()
+    {
+        player.SetBombPlacedCount(player.GetPlacedBombCount() - 1);
     }
 }

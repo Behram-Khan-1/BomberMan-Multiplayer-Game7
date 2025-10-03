@@ -5,16 +5,10 @@ using UnityEngine;
 
 public class Bomb : MonoBehaviour
 {
-    //Make it explode after timer
-    //Make it go 3x3 blocks 
-    //Stop at obstacles and destroy them
-    //Kill enemies and us.
 
-    //Kick Bomb some blocks far
-    //Walkable for 1 sec then be solid
     [SerializeField] private float pushSpeed = 2f;
     [SerializeField] private Vector2Int pushDirection = Vector2Int.zero;
-    [SerializeField] private int bombRange = 2;
+    private int bombRange;
 
     List<Vector3Int> explosionTiles = new List<Vector3Int>();
     private Vector3Int bombCell;
@@ -22,7 +16,8 @@ public class Bomb : MonoBehaviour
     public GameObject redDebugDot;
     public bool isDebugging = false;
     private bool isPushing = false;
-    // public event Action<List<Vector3Int>> OnExplode;
+    public static event Action<Vector3Int> OnTileDestroy;
+    public static event Action OnExplode;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -108,9 +103,15 @@ public class Bomb : MonoBehaviour
                 Instantiate(redDebugDot, worldPos, Quaternion.identity);
             }
         }
+        BombDestroy();
 
+    }
+
+    void BombDestroy()
+    {
         DestroyBlocks();
         KillMobs();
+        OnExplode?.Invoke();
         Destroy(gameObject);
     }
 
@@ -121,6 +122,7 @@ public class Bomb : MonoBehaviour
             if (TilemapPlacement.instance.IsDestructibleCell(explosionTiles[i]))
             {
                 TilemapPlacement.instance.SetDestructibleCell(explosionTiles[i], null);
+                OnTileDestroy?.Invoke(explosionTiles[i]);
             }
         }
     }
@@ -144,6 +146,10 @@ public class Bomb : MonoBehaviour
     {
         this.isPushing = isPushing;
         pushDirection = dir;
+    }
+    public void SetBombRange(int range)
+    {
+        bombRange = range;
     }
 
 }
