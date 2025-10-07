@@ -1,11 +1,12 @@
 using UnityEngine;
-//Touch with mobs kill
+
 //Add Death effects
-//Add respawn function
+
 //Add 2nd mob that chases
 //Move to multiplayer
 public class Player : MonoBehaviour, IDamagable
 {
+    private Vector3Int startingCell;
     private Vector3Int currentPlayerCell;
     [SerializeField] private int bombRange = 2;
     [SerializeField] private int bombCount = 1;
@@ -19,6 +20,7 @@ public class Player : MonoBehaviour, IDamagable
     void Start()
     {
         GameManager.instance.AddEntity(this);
+        startingCell = TilemapPlacement.instance.WorldToCell(transform.position);
     }
 
     // Update is called once per frame
@@ -36,15 +38,24 @@ public class Player : MonoBehaviour, IDamagable
     {
         Debug.Log("Player Took Damage");
         lifes--;
-        bombRange = initialBombRange;
-        bombCount = initialBombCount;
-        bombPlaced = initialBombPlaced;
+        //Respawn
         //Later make player drop all the powerups so other can rush to it.
         if (lifes <= 0)
         {
             GameManager.instance.PlayerDied();
             GameManager.instance.RemoveEntity(this);
         }
+        Respawn();
+    }
+
+    private void Respawn()
+    {
+        bombRange = initialBombRange;
+        bombCount = initialBombCount;
+        bombPlaced = initialBombPlaced;
+
+        GetComponent<PlayerMovement>().targetPos.Value = TilemapPlacement.instance.CellWorldCenter(startingCell);
+        transform.position = TilemapPlacement.instance.CellWorldCenter(startingCell);
     }
     public int GetBombRange()
     {
@@ -61,23 +72,31 @@ public class Player : MonoBehaviour, IDamagable
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        PowerupType powerupType = collision.gameObject.GetComponent<PowerUp>().powerupType;
-        if (powerupType == PowerupType.ExtraBomb)
+        if (collision.gameObject.GetComponent<PowerUp>() != null)
         {
-            Debug.Log("Player Got Extra Bomb");
-            bombCount++;
+            PowerupType powerupType = collision.gameObject.GetComponent<PowerUp>().powerupType;
+            if (powerupType == PowerupType.ExtraBomb)
+            {
+                Debug.Log("Player Got Extra Bomb");
+                bombCount++;
+            }
+            else if (powerupType == PowerupType.ExtraLife)
+            {
+                Debug.Log("Player Got Extra Life");
+                lifes++;
+            }
+            else if (powerupType == PowerupType.ExtraRange)
+            {
+                Debug.Log("Player Got Extra Range");
+                bombRange++;
+            }
+            Destroy(collision.gameObject);
         }
-        else if (powerupType == PowerupType.ExtraLife)
+
+        if (collision.gameObject.CompareTag("Enemy"))
         {
-            Debug.Log("Player Got Extra Life");
-            lifes++;
+            TakeDamage();
         }
-        else if (powerupType == PowerupType.ExtraRange)
-        {
-            Debug.Log("Player Got Extra Range");
-            bombRange++;
-        }
-        Destroy(collision.gameObject);
     }
 
 }

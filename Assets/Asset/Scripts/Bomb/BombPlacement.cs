@@ -1,3 +1,4 @@
+using Unity.Netcode;
 using UnityEngine;
 
 public class BombPlacement : MonoBehaviour
@@ -44,16 +45,19 @@ public class BombPlacement : MonoBehaviour
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space) && canPlaceBomb
-            && player.GetPlacedBombCount() <= player.GetBombCount()
-        )
+            && player.GetPlacedBombCount() <= player.GetBombCount())
         {
-            var bomb = Instantiate(bombPrefab,
-            TilemapPlacement.instance.CellWorldCenter(nextCell),
-            Quaternion.identity);
-
-            bomb.GetComponent<Bomb>().SetBombRange(player.GetBombRange());
-            ReduceBombCount();
+            SpawnBomb();
         }
+    }
+    private void SpawnBomb()
+    {
+        var bomb = Instantiate(bombPrefab,
+                  TilemapPlacement.instance.CellWorldCenter(nextCell),
+                  Quaternion.identity);
+
+        bomb.GetComponent<Bomb>().SetBombRange(player.GetBombRange());
+        ReduceBombCount();
     }
 
     void ReduceBombCount()

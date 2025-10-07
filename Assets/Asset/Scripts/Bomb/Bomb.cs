@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Netcode;
 using UnityEngine;
 
 public class Bomb : MonoBehaviour
@@ -112,7 +113,8 @@ public class Bomb : MonoBehaviour
         DestroyBlocks();
         KillMobs();
         OnExplode?.Invoke();
-        Destroy(gameObject);
+        GetComponent<NetworkObject>().Despawn();
+        // Destroy(gameObject);
     }
 
     private void DestroyBlocks()
