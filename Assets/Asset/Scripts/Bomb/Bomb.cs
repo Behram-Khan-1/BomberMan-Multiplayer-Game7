@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Unity.Netcode;
 using UnityEngine;
 
-public class Bomb : MonoBehaviour
+public class Bomb : NetworkBehaviour
 {
 
     [SerializeField] private float pushSpeed = 2f;
@@ -104,16 +104,16 @@ public class Bomb : MonoBehaviour
                 Instantiate(redDebugDot, worldPos, Quaternion.identity);
             }
         }
-        BombDestroy();
-
+        OnExplode?.Invoke();
+        BombDestroyRPC();
     }
 
-    void BombDestroy()
+    [Rpc(SendTo.Server)]
+    void BombDestroyRPC()
     {
         DestroyBlocks();
         KillMobs();
-        OnExplode?.Invoke();
-        GetComponent<NetworkObject>().Despawn();
+        GetComponent<NetworkObject>().Despawn(true);
         // Destroy(gameObject);
     }
 

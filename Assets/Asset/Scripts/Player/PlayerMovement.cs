@@ -9,7 +9,7 @@ using UnityEngine.Tilemaps;
 public class PlayerMovement : NetworkBehaviour
 {
     [SerializeField] private float movementSpeed = 5f;
-    [SerializeField] public Vector2Int movementDirection;
+    // [SerializeField] public Vector2Int movementDirection;
     [SerializeField] public NetworkVariable<Vector3Int> currentCell;
     [SerializeField] public NetworkVariable<Vector3> targetPos;
 
@@ -103,7 +103,7 @@ public class PlayerMovement : NetworkBehaviour
             // Debug.Log("Client Moved");
             MovementServerRPC(newInput);
         }
-        DirectionChange(movementDirection);
+        DirectionChange(newInput);
     }
     void DirectionChange(Vector2Int movementDirection)
     {
